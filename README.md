@@ -47,10 +47,6 @@ CampusRecruit_API/
 🧪 API Testing
 Use the included Postman collection to test:
 
-pgsql
-
-
-SAMSTRACK_API.postman_collection.json
 
 
 🚀 Run Locally
